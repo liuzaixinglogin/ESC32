@@ -1,11 +1,1 @@
-# PCB
-# PCB
-# PCB
-# PCB
-# ESC32-
-# ESC32-
-# ESC32-
-# ESC32-
-# ESC32-
-# ESC32-
-# ESC32-
+# 此项目为 AD项目文件 ，包含原理图，对应库。pcb不含
